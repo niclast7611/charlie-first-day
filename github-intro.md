@@ -11,11 +11,11 @@
 - repo (repository) - named folder on GitHub
 - clone - taking a repo from the remote to the local
 - push and pull - action of moving code on a branch between local and remote
-- local - your computer
+
 
 ### Git Workflow
 
 - informational commands: ls, pwd, git status
-- git add /file-name/
+- git add `file-name`
 - git commit -m "a meaningful message"
-- git push origin /branch name/
+- git push origin `branch name`
